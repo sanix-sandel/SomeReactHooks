@@ -2,3 +2,5 @@
 Don't call Hooks inside loops, conditions, or nested functions
 
 "Only Call Hooks from React Functions"
+
+ComponentDidMount excutes before the the component is rendered

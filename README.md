@@ -3,4 +3,6 @@ Don't call Hooks inside loops, conditions, or nested functions
 
 "Only Call Hooks from React Functions"
 
-ComponentDidMount excutes before the the component is rendered
+ComponentWillMount excutes before the the component is rendered
+
+ComponentDidMount excutes just as soon as the component is rendered
